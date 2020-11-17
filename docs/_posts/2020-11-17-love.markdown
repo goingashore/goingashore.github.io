@@ -3,7 +3,6 @@ layout: post
 title:  "Love"
 date:   2020-11-17 00:00:29 +0000
 categories: Musings
-visible: 1
 ---
 ## Does true love exist in this world?
 
