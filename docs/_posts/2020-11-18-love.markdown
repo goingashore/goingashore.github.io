@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Love"
+date:   2020-11-18 22:29:29 +0800
+categories: Musings
+---
+Does true love exist in this world? In fact, what is true love? 
+I would say true love is something that does not change with time, something that is unconditional, something that does not expect anything in return. 
+
+The only thing that comes closest to true love is parental love. There used to be street :cat: in our neighborhood a few years ago. Unlike other cats, this cat never stole food from any houses, was well-behaved, and very fond of humans. It so happened that this one time it gave birth to a litter of three kittens in the corridor outside my house. The mother cat was so protective of her kittens (as there were dogs in the neighborhood), every night it tried to smuggle the kittens inside our living room surreptitiously; and quite a few times it was successful. One night, my parents got annoyed and put the kittens outside our house. The mother cat was still afraid to keep her kittens outside; so it shifted the kittens to the next house. But, my neighbors weren't accommodating of the litter and they shooed away the cat while throwing the litter in the gutter. The litter got washed away. 
+
+The next two days, the neighborhood was filled with the mother's wailing - it did not eat anything, it was constantly crying at the place where the litter got washed away. People who were unfamiliar with the incident could not understand why the cat was crying. My mom was fond of the mother cat, so she tried to distract her mind by petting her, giving her food, etc. but in vain. The cat did not eat anything for the next 4 days. At one point, we thought that the mother cat is not going to make it.   
+
+This experience has haunted me for quite sometime. Why does such unconditional love exist even in lower forms of life? What has the mother cat done to deserve such pain? After all, the mother cat has seen its previous litter grow up (and leave her), and she would pretty sure give birth to next set of litter; why is it so attached to the new-born? 
+
+
+ I think only parental love is the closest thing to true love. Rest all forms of emotion change with time. Take, for example, the romantic love between a boy and girl. After a few months, this emotion transforms into expectation and then eventually into either into disappointment or compromise. The divorce rate of above 50% in the U.S. attests to this fact. 
+
+ But is falling in love a futile endeavor? I don't think so. In fact, I feel love (in some form or the other) is the driving force behind all human endeavor. Romantic love is one of the strongest forms of love out there. It will make you do things that you wouldn't do under ordinary circumstances. As Issac Sirkov in Dexter says, 
+
+> Love can be inconvenient, perhaps inappropriate. It can be dangerous. Make us do things
+> we wouldn't dream of doing. But wrong? That just depends on where we end up, doesn't it?
+
+Obviously, you will burn your fingers the first few times. But, I would say love teaches a lot of oneself. Love makes one to introspect. So, it is ok to let go and fall in love once in a while when one is young. I mean, take this blogpost, for example. I would not have gone through the pain of setting a github-page and start a blog page, had it not been for this girl named RK. RK started blogging recently. She knows that I like her. But I don't think she has similar feelings towards me. I tried to communicate with her this morning but was once again put down. This feeling of rejection rekindled by hibernated joy for blogging (I used to blog heavily in undergrad). But, this time, I wanted to do things differently. I want to do it in the classic way - none of this blogspot, tumblr, crap. I wanted to create a space that I own, control and at the same time, stay anonymous (so that I can express myself freely without the encumbrance of judgment). More importantly, I did not want the deep-tech software constantly tracking me. After 6 hours of learning through ssh keys, git version controls, git-hub pages and numerous debugs (the security controls of OSx changed a lot in the latest version) I started this blog. Had it not been for RK, I would not have learnt this stuff. It had always been love, all along, that pushed me to do things outside my comfort zone. All is well that ends well. 
+
+By the way, the mother cat lived a few more months, gave birth to one litter, had the best time of its life, before leaving this world! :simple_smile:
+
+
+
